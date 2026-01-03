@@ -4,6 +4,7 @@
 
 ## 📌 Project Overview
 This repository contains my work from the **Tata Data Visualisation: Empowering Business with Effective Insights** virtual experience program on **Forage**, developed in collaboration with **Tata**.
+**Check out the simulation here:** https://www.theforage.com/simulations/tata/data-visualisation-p5xo
 
 In this project, I acted as a data consultant for an **online retail store**, analyzing business performance and creating data visualizations to support **CEO and CMO decision-making**, particularly around **revenue growth and expansion strategy**.
 
